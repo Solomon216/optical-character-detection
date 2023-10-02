@@ -1,1 +1,1 @@
-# optical-character-detection
+# Optical Character Detection from images and videos.
